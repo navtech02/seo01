@@ -1,4 +1,4 @@
-# <a href="https://byteplaymarketing.weebly.com/">Link</a>
+<a href="https://byteplaymarketing.weebly.com/">Link</a>
 <a href="https://truedatamarketing.weebly.com/">Link</a>
 <a href="https://advertisingvaluesmarketing.weebly.com/">Link</a>
 <a href="https://enaffiliatemarketing.weebly.com/">Link</a>
@@ -498,4 +498,3 @@
 <a href="https://workspushmarketingse.weebly.com/">Link</a>
 <a href="https://droidindustrymarketingse.weebly.com/">Link</a>
 <a href="https://seomodemarketingse.weebly.com/">Link</a>
-![image](https://github.com/navtech02/seo01/assets/160998108/1f5e7ab7-27cf-473b-aa95-27fe7d06e235)
